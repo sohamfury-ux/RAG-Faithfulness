@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+# regenerable embedding caches (rebuilt automatically by src/dense.py)
+data/emb_*.npy

@@ -1,0 +1,303 @@
+RTI2005 1: Short title, extent and commencement
+RTI2005 2: Definitions
+RTI2005 3: Ftight to information
+RTI2005 4: Obligations of public authorities
+RTI2005 5: Designation of Public Information Officers
+RTI2005 6: Request for obtaining information
+RTI2005 7: Disposal of request
+RTI2005 8: Exemption from disclosure of information
+RTI2005 9: Grounds for rejection to access in certain cases
+RTI2005 10: Severability
+RTI2005 11: Third party information
+RTI2005 12: Constitution of Central Information Commission
+RTI2005 13: Term of office and conditions of service
+RTI2005 14: Removal of Chief Information Commissioner or Information Commissioner
+RTI2005 15: Constitution of State Information Commission
+RTI2005 16: Term of office and conditions of service
+RTI2005 17: Removal of State Chief Information Commissioner or State Information C
+RTI2005 18: Powers and 'Unctions of Information Commissions
+RTI2005 19: Appeal
+RTI2005 20: Penalties
+RTI2005 21: Protection of action taken in good faith
+RTI2005 22: Act to have overriding effect
+RTI2005 23: Bar of judisdiction of courts
+RTI2005 24: Act not to apply in certain organizations
+RTI2005 25: Monitoring and reporting
+RTI2005 26: Appropriate Government to prepare programmes
+RTI2005 27: Power to make rules by appropriate Govemment
+RTI2005 28: Power to make rules by competent autbmity
+RTI2005 29: Laying of rules
+RTI2005 30: Power to remove difficulties
+RTI2005 31: Repeal
+IT2000 1: Short title, extent, commencement and application
+IT2000 2: Definitions
+IT2000 3: Authentication of electronic records
+IT2000 3A: Electronic signature
+IT2000 4: Legal recognition of electronic records
+IT2000 5: Legal recognition of [electronic signatures
+IT2000 6: Use of electronic record s and [electronic signatures ] in Government 
+IT2000 6A: Delivery of services by service provider
+IT2000 7: Retention of electronic records
+IT2000 7A: Audit of documents , etc., maintained in electronic form
+IT2000 8: Publication of rule, regulation, etc., in Electronic Gazette
+IT2000 9: Sections 6, 7 and 8 not to confer right to
+IT2000 10: Power t o make rules by Central Government in respect of [electronic s
+IT2000 10A: Validity of contracts formed through electronic means
+IT2000 11: Attribution of electronic records
+IT2000 12: Acknowledgment of receipt
+IT2000 13: Time and place of despatch and receipt of electronic record
+IT2000 14: Secure electronic record
+IT2000 15: Secure electronic signature
+IT2000 16: Security procedures and practices
+IT2000 17: Appointment of Controller and other officers
+IT2000 18: Functions of Controller
+IT2000 19: Recognition of foreign Certifying Authorities
+IT2000 20: [Controller to act as repository .] Omitted by the Information
+IT2000 21: Licence to issue [electronic signature] Certificates
+IT2000 22: Application for licence
+IT2000 23: Renewal of licence
+IT2000 24: Procedure for grant or rejection of licence
+IT2000 25: Suspension of licence
+IT2000 26: Notice of suspension or revocation of licence
+IT2000 27: Power to delegate
+IT2000 28: Power to investigate contraventions
+IT2000 29: Access to computers and data
+IT2000 30: Certifying Authority to follow certain procedures
+IT2000 31: Certifying Authority to ensure compliance of the Act, etc
+IT2000 32: Display of licence
+IT2000 33: Surrender of licence
+IT2000 34: Disclosure
+IT2000 35: Certifying authority to issue [electronic signature] Certificate
+IT2000 36: Representations upon issuance of Digital Signature Certificate
+IT2000 37: Suspension of Digital Signature Certificate
+IT2000 38: Revocation of Digital Signature Certificate
+IT2000 39: Notice of suspension or revocation
+IT2000 40: Generating key pair
+IT2000 40A: Duties of subscriber of Electronic Signature Certificate
+IT2000 41: Acceptance of Digital Signature Certificate
+IT2000 42: Control of private key
+IT2000 43: Penalty and compensation ] for damage to computer, computer system, et
+IT2000 43A: Compensation for failure to protect data
+IT2000 44: Penalty for failure to furnish information, return, etc
+IT2000 45: Residuary penalty
+IT2000 46: Power to adjudicate
+IT2000 47: Factors to be taken into account by the adjudicating officer
+IT2000 48: Appellate Tribunal
+IT2000 49: [Composition of Cyber Appellate Tribunal .] Omitted by the Finance
+IT2000 50: [Qualifications for appointment as Chairperson and Members of Cyber Ap
+IT2000 51: [Term of office, conditions of service, etc., of Chairperson and
+IT2000 52: [Salary, allowances and other terms and conditions of service of
+IT2000 52A: Powers of superintendence, direction, etc.] Omitted by s. 169, ibid. (
+IT2000 52B: Distribution of business among Benches.] Omitted by s. 169, ibid. (w.e
+IT2000 52C: Power of Chairperson to transfer cases.] Omitted by s. 169, ibid. (w.e
+IT2000 52D: Decision by majority
+IT2000 53: [Filling up of vacancies .] Omitted by the Financ e
+IT2000 55: Orders constituting Appellate Tribunal to be final and not to invalida
+IT2000 56: [Staff of the Cyber Appellate Tribunal .] Omitted by the
+IT2000 57: Appeal to [Appellate Tribunal
+IT2000 58: Procedure and powers of the Appellate Tribunal
+IT2000 59: Right to legal representation
+IT2000 60: Limitation
+IT2000 61: Civil court not to have jurisdiction
+IT2000 62: Appeal to High Court
+IT2000 63: Compounding of contraventions
+IT2000 64: Recovery of [penalty or compensation
+IT2000 65: Tampering with computer source documents
+IT2000 66: Computer related offences
+IT2000 66A: Punishment for sending offensive messages through communication servic
+IT2000 66B: Punishment for dishonestly receiving stolen computer resource or commu
+IT2000 66C: Punishment for identity theft
+IT2000 66D: Punishment for cheating by personation by using computer resource
+IT2000 66E: Punishment for violation of privacy
+IT2000 66F: Punishment for cyber terrorism
+IT2000 67: Punishment for publishing or transmitting obscene material in electron
+IT2000 67A: Punishment for publishing or transmitting of material containing sexua
+IT2000 67B: Punishment for publishing or transmitting of material depicting childr
+IT2000 67C: Preservation and retention of information by intermediaries
+IT2000 68: Power of Controller to give directions
+IT2000 69: Power to issue directions for interception or monitoring or decryption
+IT2000 69A: Power to issue directions for blocking for public access of
+IT2000 69B: Power to authorise to monitor and collect traffic data or
+IT2000 70: Protected system
+IT2000 70A: National nodal agency
+IT2000 70B: Indian Computer Emergency Response Team to serve as national agency
+IT2000 71: Penalty for misrepresentation
+IT2000 72: Penalty for Breach of confidentiality and privacy
+IT2000 72A: Punishment for disclosure of information in breach of lawful contract
+IT2000 73: Penalty for publishing [electronic signature] Certificate false in cer
+IT2000 74: Publication for fraudulent purpose
+IT2000 75: Act to apply for offence or contravention committed outside India
+IT2000 76: Confiscation
+IT2000 77: Compensation, penalties or confiscation not to interfere with other pu
+IT2000 77A: Compounding of offences
+IT2000 77B: Offences with three years imprisonment to be bailable
+IT2000 78: Power to investigate offences
+IT2000 79: Exemption from liability of intermediary in certain cases
+IT2000 79A: Central Government to notify Examiner of Electronic Evidence
+IT2000 80: Power of police officer and other officers to enter, search, etc
+IT2000 81: Act to have overriding effect
+IT2000 81A: Application of the Act to electronic cheque and truncated cheque
+IT2000 82: Controller, Deputy Controller and Assistant Controller to be public se
+IT2000 83: Power to give directions
+IT2000 84: Protection of action taken in good faith
+IT2000 84A: Modes or methods for encryption
+IT2000 84B: Punishment for abetment of offences
+IT2000 84C: Punishment for attempt to commit offences
+IT2000 85: Offences by companies
+IT2000 86: Removal of difficulties
+IT2000 87: Power of Central Government to make rules
+IT2000 88: Constitution of Advisory Committee
+IT2000 89: Power of Controller to make regulations
+IT2000 90: Power of State Government to make rules
+IT2000 91: [Amendment of Act 45 of 1860.] Omitted by the Information
+CPA2019 1: Short title, extent, commencement and application
+CPA2019 2: Definitions
+CPA2019 3: Central Consumer Protection Council
+CPA2019 4: Procedure for meetings of Central Council
+CPA2019 5: Objects of Central Council
+CPA2019 6: State Consumer Protection Councils
+CPA2019 7: Objects of State Council
+CPA2019 8: District Consumer Protection Council
+CPA2019 9: Objects of District Council
+CPA2019 10: Establishment of Central Consumer Protection Authority
+CPA2019 11: Qualifications, method of recruitment, etc., of Chief Commissioner and
+CPA2019 12: Vacancy, etc., not to invalidate proceedings of Central Authority
+CPA2019 13: Appointment of officers, experts, professionals and other employees of
+CPA2019 14: Procedure of Central Authority
+CPA2019 15: Investigation Wing
+CPA2019 16: Power of District Collector
+CPA2019 17: Complaints to authorities
+CPA2019 18: Powers and functions of Central Authority
+CPA2019 19: Power of Central Authority to refer matter for investigation or to oth
+CPA2019 20: Power of Central Authority to recall goods, etc
+CPA2019 21: Power of Central Authority to issu e directions and penalties
+CPA2019 22: Search and seizure
+CPA2019 23: Designation of any statutory authority or body to function as Central 
+CPA2019 24: Appeal
+CPA2019 25: Grants by Central Government
+CPA2019 26: Accounts and audit
+CPA2019 27: Furnishing of annual reports, etc
+CPA2019 28: Establishment of District Consumer Disputes Redressal Commission
+CPA2019 29: Qualifications, etc., of President and members of District Commission
+CPA2019 30: Salaries, allowances and other terms and conditio ns of service
+CPA2019 31: Transitional provision
+CPA2019 32: Vacancy in office of member of District Commission
+CPA2019 33: Officers and other employees of District Commission
+CPA2019 34: Jurisdiction of District Commission
+CPA2019 35: Manner in which complaint shall be made
+CPA2019 36: Proceedings before District Commission
+CPA2019 37: Reference to mediation
+CPA2019 38: Procedure on admission of complaint
+CPA2019 39: Findings of District Commission
+CPA2019 40: Review by District Commission in certain cases
+CPA2019 41: Appeal against order of District Commission
+CPA2019 42: Establishment of State Consumer Disputes Redressal Commission
+CPA2019 43: Qualifications, etc., of President and members of State Commission
+CPA2019 44: Salaries, allowances and other terms and conditions of service of
+CPA2019 45: Transitional provision
+CPA2019 46: Officers and employees of State Commission
+CPA2019 47: Jurisdiction of State Commission
+CPA2019 48: Transfer of cases
+CPA2019 49: Procedure applicable to State Commission
+CPA2019 50: Review by State Commission in certain cases
+CPA2019 51: Appeal to National Commission
+CPA2019 52: Hearing of appeal
+CPA2019 53: Establishment of National Consumer Disputes Redressal Commission
+CPA2019 54: Composition of National Commission
+CPA2019 55: Qualifications, etc., of President and members of National Commission
+CPA2019 56: Transitional provision
+CPA2019 57: Other officers and employees of National Commission
+CPA2019 58: Jurisdiction of National Commission
+CPA2019 59: Procedure applicable to National Commission
+CPA2019 60: Review by National Commission in certain cases
+CPA2019 61: Power to set aside ex parte orders
+CPA2019 62: Transfer of cases
+CPA2019 63: Vacancy in office of President of National Commission
+CPA2019 64: Vacancies or defects in appointment not to invalidate orders
+CPA2019 65: Service of notice, etc
+CPA2019 66: Experts to assist National Commission or State Commission
+CPA2019 67: Appeal against order of National Commission
+CPA2019 68: Finality of orders
+CPA2019 69: Limitation period
+CPA2019 70: Administrative control
+CPA2019 71: Enforcement of orders of District Commission, State Commission and Nat
+CPA2019 72: Penalty for non
+CPA2019 73: Appeal against order passed under section 72
+CPA2019 74: Establishment of consumer mediation cell
+CPA2019 75: Empanelment of mediators
+CPA2019 76: Nomination of mediators from panel
+CPA2019 77: Duty of mediator to disclose certain facts
+CPA2019 78: Replacement of mediator in certain cases
+CPA2019 79: Procedure for mediation
+CPA2019 80: Settlement through mediation
+CPA2019 81: Recording settlement and passing of order
+CPA2019 82: Application of Chapter
+CPA2019 83: Product liability action
+CPA2019 84: Liability of product manufacturer
+CPA2019 85: Liability of product service provider
+CPA2019 86: Liability of product sellers
+CPA2019 87: Exceptions to product liability action
+CPA2019 88: Penalty for non
+CPA2019 89: Punishment for false or misleading advertisement
+CPA2019 90: Punishment for manufacturing for sale or storing, selling or distribut
+CPA2019 91: Punishment for manufacturing for sale or for storing or selling
+CPA2019 92: Cognizance of offence by court
+CPA2019 93: Vexatious search
+CPA2019 94: Measures to prevent unfair trade practices in e
+CPA2019 95: Presidents, members, Chief Commissioner, Commissioner and certain offi
+CPA2019 96: Compounding of offences
+CPA2019 97: Manner of crediting penalty
+CPA2019 98: Protection of action taken in good faith
+CPA2019 99: Power to give directions by C entral Government
+CPA2019 100: Act not in derogation of any other law
+CPA2019 101: Power of Central Government to make rules
+CPA2019 102: Power of State Government to make rules
+CPA2019 103: Power of National Commission to make regulations
+CPA2019 104: Power of Central Authority to make regulations
+CPA2019 105: Rules and regulations to be laid before each House of Parliament
+CPA2019 106: Power to Remove Difficulties
+CPA2019 107: Repeal and savings
+DPDP2023 1: (1) This Act may be called the Digital Personal Data
+DPDP2023 2: In this Act, unless the context otherwise requires,
+DPDP2023 3: Subject to the provisions of this Act, it shall
+DPDP2023 4: (1) A person may process the personal data of a
+DPDP2023 5: (1) Every request made to a Data Principal under section
+DPDP2023 6: (1) The consent given by the Data Principal shall be
+DPDP2023 7: A Data Fiduciary may process personal data of a Data
+DPDP2023 8: (1) A Data Fiduciary shall, irrespective of any agreement to
+DPDP2023 9: (1) The Data Fiduciary shall, before processing any personal data
+DPDP2023 10: (1) The Central Government may notify any Data Fiduciary or
+DPDP2023 11: (1) The Data Principal shall have the right to obtain
+DPDP2023 12: (1) A Data Principal shall have the right to correction,
+DPDP2023 13: (1) A Data Principal shall have the right to have
+DPDP2023 14: (1) A Data Principal shall have the right to nominate,
+DPDP2023 15: A Data Principal shall perform the following duties, namely:
+DPDP2023 16: (1) The Central Government may, by notification, restrict the transfer
+DPDP2023 17: (1) The provisions of Chapter II, except sub-sections (1) and
+DPDP2023 18: (1) With effect from such date as the Central Government
+DPDP2023 19: (1) The Board shall consist of a Chairperson and such
+DPDP2023 20: ( 1) The salary, allowances and other terms and conditions
+DPDP2023 21: (1) A person shall be disqualified for being appointed and
+DPDP2023 22: (1) The Chairperson or any other Member may give notice
+DPDP2023 23: ( 1) The Board shall observe such procedure in regard
+DPDP2023 24: The Board may, with previous approval of the Central Government,
+DPDP2023 25: The Chairperson, Members, officers and employees of the Board shall
+DPDP2023 26: The Chairperson shall exercise the following powers, namely:
+DPDP2023 27: (1) The Board shall exercise and perform the following powers
+DPDP2023 28: (1) The Board shall function as an independent body and
+DPDP2023 29: (1) Any person aggrieved by an order or direction made
+DPDP2023 30: (1) An order passed by the Appellate Tribunal under this
+DPDP2023 31: If the Board is of the opinion that any complaint
+DPDP2023 32: (1) The Board may accept a voluntary undertaking in respect
+DPDP2023 33: (1) If the Board determines on conclusion of an inquiry
+DPDP2023 34: All sums realised by way of penalties imposed by the
+DPDP2023 35: No suit, prosecution or other legal proceedings shall lie against
+DPDP2023 36: The Central Government may, for the purposes of this Act,
+DPDP2023 37: (1) The Central Government or any of its officers specially
+DPDP2023 38: (1) The provisions of this Act shall be in addition
+DPDP2023 39: No civil court shall have the jurisdiction to entertain any
+DPDP2023 40: (1) The Central Government may, by notification, and subject to
+DPDP2023 41: Every rule made and every notification issued under section 16
+DPDP2023 42: (1) The Central Government may, by notification, amend the Schedule,
+DPDP2023 43: (1) If any difficulty arises in giving effect to the
+DPDP2023 44: (1) In section 14 of the Telecom Regulatory Authority of

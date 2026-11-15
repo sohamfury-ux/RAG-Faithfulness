@@ -1,0 +1,242 @@
+[
+ {
+  "qid": "q11",
+  "retriever": "hybrid",
+  "claim": "This provision applies to \"personal data\" of children and restricts certain types of processing activities involving children's personal information .",
+  "citation": "DPDP2023 s.9",
+  "premise": "[DPDP2023 s.9 (1) The Data Fiduciary shall, before processing any personal data] (1) The Data Fiduciary shall, before processing any personal data of a child or a person with disability who has a lawful guardian obtain verifiable consent of the parent of such child or the lawful guardian, as the case may be, in such manner as may be prescribed. Explanation.—For the purpose of this sub-section, the expression “consent of the parent” includes the consent of lawful guardian, wherever applicable. (2) A Data Fiduciary shall not undertake such processing of personal data that is likely to cause any detrimental effect on the well-being of a child. (3) A Data Fiduciary shall not undertake tracking or behavioural monitoring of children or targeted advertising directed at children. (4) The provisions of sub-sections (1) and (3) shall not be applicable to processing of personal data of a child by such classes of Data Fiduciaries or for such purposes, and subject to such conditions, as may be prescribed. (5) The Central Government may, if satisfied that a Data Fiduciary has ensured that its processing of personal data of children is done in a manner that is verifiably safe, notify for such processing by such Data Fiduciary the age above which that Data Fiduciary shall be exempt from the applicability of all or any of",
+  "n": 1
+ },
+ {
+  "qid": "q03",
+  "retriever": "hybrid",
+  "claim": "According to Section 18 of the RTI Act, if you believe there was non-response to your request, you have the right to appeal to the appropriate commission.",
+  "citation": "RTI2005 s.19",
+  "premise": "[RTI2005 s.19 Appeal] the penalties provided under this Act; (d) reject the application. (9) The Central Information Commission or State Information Commission, as the case may be, shall give notice of its decision, including any right of appeal, to the complainant and the public authority. (/0) The Central Information Commission or State Information Commission, as the case may be, shall decide the appeal in accordance with such procedure as may be prescribed.",
+  "n": 2
+ },
+ {
+  "qid": "q04",
+  "retriever": "hybrid",
+  "claim": "Confidential information shared in fiduciary relationships.\n9.",
+  "citation": "RTI2005 s.24",
+  "premise": "[RTI2005 s.24 Act not to apply in certain organizations] Act not to apply in certain organizations.—(1) Nothing contained in this Act shall apply to the intelligence and security organisations specified in the Second Schedule, being organisations established by the Central Government or any information fumished by such organisations to that Government: Provided that the information pertaining to the allegations of corruption and human rights violations shall not be excluded under this sub-section: Provided further that in the case of information sought for is in respect of allegations of violation of human rights, the information shall only be provided after the approval of the Central Information Commission, and notwithstanding anything contained in section 7, such information shall be provided within forty-five days from the date of the receipt of request. (2) The Central Government may, by notification in the Official Gazette, amend the Schedule by including therein any other intelligence or security organisation established by that Government or omitting therefrom any organisation already specified therein and on the publication of such notification, such organisation shall be deemed to be included in or, as the case may be, omitted from the Schedule. (3) Every notification issued under sub-section (2) shall be laid before each House of Parliament. (4) Nothing contained in this Act shall apply to such intelligence and security organisation being",
+  "n": 3
+ },
+ {
+  "qid": "q34",
+  "retriever": "dense",
+  "claim": "Therefore, a contract signed over email or electronically is legally enforceable.",
+  "citation": "IT2000 s.10A",
+  "premise": "[IT2000 s.10A Validity of contracts formed through electronic means] Validity of contracts formed through electronic means .—Where in a contract formation, the communication of proposals, the acceptance of proposals, the revocation of proposals and acceptances, as the case may be, are expressed in electronic form or by means of an electronic records, such contract shall not be deemed to be unenforceable solely on the ground that such electronic form or means was used for that purpose.] CHAPTER IV ATTRIBUTION, ACKNOWLEDGMENT AND DESPATCH OF ELECTRONIC RECORDS",
+  "n": 4
+ },
+ {
+  "qid": "q15",
+  "retriever": "rerank",
+  "claim": "First, you should contact the Data Fiduciary directly to address the issue .",
+  "citation": "DPDP2023 s.13",
+  "premise": "[DPDP2023 s.13 (1) A Data Principal shall have the right to have] (1) A Data Principal shall have the right to have readily available means of grievance redressal provided by a Data Fiduciary or Consent Manager in respect of any act or omission of such Data Fiduciary or Consent Manager regarding the performance of its obligations in relation to the personal data of such Data Principal or the exercise of her rights under the provisions of this Act and the rules made thereunder. (2) The Data Fiduciary or Consent Manager shall respond to any grievances referred to in sub-section (1) within such period as may be prescribed from the date of its receipt for all or any class of Data Fiduciaries. (3) The Data Principal shall exhaust the opportunity of redressing her grievance under this section before approaching the Board.",
+  "n": 5
+ },
+ {
+  "qid": "q32",
+  "retriever": "dense",
+  "claim": "Yes, according to Section 69B of the Information Technology Act, 2000, the central government can authorize agencies to monitor and collect traffic data or information generated, transmitted, received, or stored in any computer resource for enhancing cyber security.",
+  "citation": "IT2000 s.69",
+  "premise": "[IT2000 s.69 Power to issue directions for interception or monitoring or decryption] called upon by any agency referred to in sub-section (1), extend all facilities and technical assistance to– (a) provide access to or secure access to the computer resource generating , transmitting, receiving or storing such information; or (b) intercept, monitor, or decrypt the information, as the case may be; or (c) provide information stored in computer resource. (4) The subscriber or intermediary or any person who fails to assist the agency referred to in sub-section (3) shall be punished with imprisonment for a term which may extend to seven years and shall also be liable to fine.",
+  "n": 6
+ },
+ {
+  "qid": "q07",
+  "retriever": "rerank",
+  "claim": "Yes, according to RTI2005 s.8, the government can refuse to disclose information that would harm national security, sovereignty, or strategic interests .",
+  "citation": "RTI2005 s.8",
+  "premise": "[RTI2005 s.8 Exemption from disclosure of information] Exemption from disclosure of information. — (1) Notwithstanding anything contained in this Act, there shall be no obligation to give any citizen,— (a) information, disclosure of which would prejudicially affect the sovereignty and integrity of India, the security, strategic, scientific or economic interests of the State, relation with foreign State or lead to incitement of an offence; (b) information which has been expressly forbidden to be published by any court of law or tribunal or the disclosure of which may constitute contempt of court; (c) information, the disclosure of which would cause a breach of privilege of Parliament or the State Legislature; (d) information including commercial confidence, trade secrets or intellectual property, the disclosure of which would harm the competitive position of a third party, unless the competent authority is satisfied that larger public interest warrants the disclosure of such information; (e) information available to a person in his fiduciary relationship, unless the competent authority is satisfied that the larger public interest warrants the disclosure of such information; (f) information received in confidence from foreign Government; (g) information, the disclosure of which would endanger the life or physical safety of any person or identify the source of information or assistance given in confidence for law enforcement or security purposes; (h) information which would",
+  "n": 7
+ },
+ {
+  "qid": "q03",
+  "retriever": "hybrid",
+  "claim": "If your RTI (Right to Information) application did not get a reply, you can appeal to the Central Information Commission or State Information Commission, depending on where you filed your application.",
+  "citation": "RTI2005 s.19",
+  "premise": "[RTI2005 s.19 Appeal] the penalties provided under this Act; (d) reject the application. (9) The Central Information Commission or State Information Commission, as the case may be, shall give notice of its decision, including any right of appeal, to the complainant and the public authority. (/0) The Central Information Commission or State Information Commission, as the case may be, shall decide the appeal in accordance with such procedure as may be prescribed.",
+  "n": 8
+ },
+ {
+  "qid": "q12",
+  "retriever": "dense",
+  "claim": "Additionally, you can also request detailed information related to your personal data's processing, as per Clause (c) of Section 11(1).",
+  "citation": "DPDP2023 s.11",
+  "premise": "[DPDP2023 s.11 (1) The Data Principal shall have the right to obtain] (1) The Data Principal shall have the right to obtain from the Data Fiduciary to whom she has previously given consent, including consent as referred to in clause ( a) of section 7 (hereinafter referred to as the said Data Fiduciary), for processing of personal data, upon making to it a request in such manner as may be prescribed,— (a) a summary of personal data which is being processed by such Data Fiduciary and the processing activities undertaken by that Data Fiduciary with respect to such personal data; (b) the identities of all other Data Fiduciaries and Data Processors with whom the personal data has been shared by such Data Fiduciary, along with a description of the personal data so shared; and (c) any other information related to the personal data of such Data Principal and its processing, as may be prescribed. (2) Nothing contained in clause ( b) or clause (c) of sub-section ( 1) shall apply in respect of the sharing of any personal data by the said Data Fiduciary with any other Data Fiduciary authorised by law to obtain such personal data, where such sharing is pursuant Right to access information about personal data. 10 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II— to a",
+  "n": 9
+ },
+ {
+  "qid": "q21",
+  "retriever": "dense",
+  "claim": "This means you have up to two years from when you first notice the problem with your product to file a complaint.",
+  "citation": "CPA2019 s.69",
+  "premise": "[CPA2019 s.69 Limitation period] Limitation period .—(1) The District Commission, the State Commission or the Nationa l Commission shall not admit a complaint unless it is filed within two years from the date on which the cause of action has arisen. (2) Notwithstanding anything contained in sub -section (1), a complaint may be entertained after the period specified in sub -section ( 1), if the complainant satisfies the District Commission, the State Commission or the National Commission, as the case may be, that he had sufficient cause for not filing the complaint within such period: Provided that no such complaint shall be e ntertained unless the District Commission or the State Commission or the National Commission, as the case may be, records its re asons for condoning such delay.",
+  "n": 10
+ },
+ {
+  "qid": "q35",
+  "retriever": "rerank",
+  "claim": "Yes, sending offensive messages through a communication service is a punishable offence according to Section 66A of the Information Technology Act, 2000 .",
+  "citation": "IT2000 s.66A",
+  "premise": "[IT2000 s.66A Punishment for sending offensive messages through communication service, etc] Punishment for sending offensive messages through communication service, etc. –Any person who sends, by means of a computer resource or a communication device,– (a) any information that is grossly offensive or has menacing character; or (b) any information which he knows to be false, but for the purpose of causing annoyance, inconvenience, danger, obstruction, insult, injury, criminal intimidation, enmity, hatred or ill will, persistently by making use of such computer resource or a communication device; (c) any electronic mail or electronic mail message for the purpose of causing annoyance or inconvenience or to deceive or to mislead the addressee or recipient about the origin of such messages, shall be punishable with imprisonment for a term which may extend to three years and with fine. Explanation.–For the purposes of this section, terms ―electronic mail‖ and ―electronic mail message‖ means a message or information created or transmitted or received on a computer, computer system, computer resource or communication device including attachments in text, image, audio, video and any other electronic record, which may be transmitted with the message.]",
+  "n": 11
+ },
+ {
+  "qid": "q04",
+  "retriever": "hybrid",
+  "claim": "Information that might disclose sensitive data without causing undue harm to third parties.\n11.",
+  "citation": "RTI2005 s.24",
+  "premise": "[RTI2005 s.24 Act not to apply in certain organizations] Act not to apply in certain organizations.—(1) Nothing contained in this Act shall apply to the intelligence and security organisations specified in the Second Schedule, being organisations established by the Central Government or any information fumished by such organisations to that Government: Provided that the information pertaining to the allegations of corruption and human rights violations shall not be excluded under this sub-section: Provided further that in the case of information sought for is in respect of allegations of violation of human rights, the information shall only be provided after the approval of the Central Information Commission, and notwithstanding anything contained in section 7, such information shall be provided within forty-five days from the date of the receipt of request. (2) The Central Government may, by notification in the Official Gazette, amend the Schedule by including therein any other intelligence or security organisation established by that Government or omitting therefrom any organisation already specified therein and on the publication of such notification, such organisation shall be deemed to be included in or, as the case may be, omitted from the Schedule. (3) Every notification issued under sub-section (2) shall be laid before each House of Parliament. (4) Nothing contained in this Act shall apply to such intelligence and security organisation being",
+  "n": 12
+ },
+ {
+  "qid": "q18",
+  "retriever": "hybrid",
+  "claim": "This provision allows for certain transfers but requires adherence to specific conditions outlined in the bill.",
+  "citation": "DPDP2023 s.16",
+  "premise": "[DPDP2023 s.16 (1) The Central Government may, by notification, restrict the transfer] (1) The Central Government may, by notification, restrict the transfer of personal data by a Data Fiduciary for processing to such country or territory outside India as may be so notified. (2) Nothing contained in this section shall restrict the applicability of any law for the time being in force in India that provides for a higher degree of protection for or restriction on transfer of personal data by a Data Fiduciary outside India in relation to any personal data or Data Fiduciary or class thereof.",
+  "n": 13
+ },
+ {
+  "qid": "q09",
+  "retriever": "rerank",
+  "claim": "Yes, according to Section 2 of the Right to Information Act (RTI), 2005, this Act applies to such intelligence and security organizations established by the State Government, as that Government may, from time to time, by notification in the Official Gazette, specify.",
+  "citation": "RTI2005 s.2",
+  "premise": "[RTI2005 s.2 Definitions] of a High Court; (iv) the President or the Governor, as the case may be, in the case of other authorities established or constituted by or under the Constitution; (v) the administrator appointed under article 239 of the Constitution; V) \"information\" means any material in any form, including records, documents, memos, e-mails, opinions, advices, press releases, circulars, orders, logbooks, contracts, reports, papers, samples, models, data material held in any electronic form and information relating to any private body which can be accessed by a public authority under any other law for the time being in force; (g) \"prescribed\" means prescribed by rules made under this Act by the appropriate Government or the competent authority, as the case may be; (h) \"public authority\" means any authority or body or institution of self-government established or constituted— (a) by or under the Constitution; (b) by any other law made by Parliament; (c) by any other law made by State Legislature; (d) by notification issued or order made by the appropriate Government, and includes any— (0 body owned, controlled or substantially financed; (ii) non-Government organisation substantially financed, directly or indirectly by funds provided by the appropriate Government; (i) \"record\" includes— (a) any document, manuscript and file; (b) any microfilm, microfiche and facsimile copy of a document; (c) any reproduction of image",
+  "n": 14
+ },
+ {
+  "qid": "q28",
+  "retriever": "hybrid",
+  "claim": "This encompasses various actions such as false representations regarding standards, qualities, quantities, grades, compositions, styles, models, sponsorships, approvals, performances, characteristics, accessories, among others.",
+  "citation": "CPA2019 s.2",
+  "premise": "[CPA2019 s.2 Definitions] occurred due to such breach to the other party to the contract; or (iii) refusing to accept early repayment of debts on payment of applicable penalty; or (iv) entitling a party to the contract to terminate such contract unilate rally, without reasonable cause; or (v) permitting or has the effect of permitting one party to assign the contract to the detriment of the other party who is a consumer, without his consent; or (vi) imposing on the consumer any unreasonable charge, obliga tion or condition which puts such consumer to disadvantage; (47) “unfair trade practice” means a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice including any of the following practices, namely:— (i) making any statement, whether orally or in writing or by visible representation including by means of electronic record, which— (a) falsely represents that the goods are of a par ticular standard, quality, quantity, grade, composition, style or model; (b) falsely represents that the services are of a particular standard, quality or grade; (c) falsely represents any re -built, second-hand, renovated, reconditioned or old goods as new goods; (d) represents that the goods or services have sponsorship, approval, performance, characteristics, accessories,",
+  "n": 15
+ },
+ {
+  "qid": "q18",
+  "retriever": "dense",
+  "claim": "This provision allows for some level of control over international transfers of personal data, though it must comply with applicable laws and policies.",
+  "citation": "DPDP2023 s.16",
+  "premise": "[DPDP2023 s.16 (1) The Central Government may, by notification, restrict the transfer] (1) The Central Government may, by notification, restrict the transfer of personal data by a Data Fiduciary for processing to such country or territory outside India as may be so notified. (2) Nothing contained in this section shall restrict the applicability of any law for the time being in force in India that provides for a higher degree of protection for or restriction on transfer of personal data by a Data Fiduciary outside India in relation to any personal data or Data Fiduciary or class thereof.",
+  "n": 16
+ },
+ {
+  "qid": "q03",
+  "retriever": "dense",
+  "claim": "According to the relevant sections, if your RTI application did not get a reply, you can appeal to the Central Information Commission or State Information Commission, depending on where you filed your application.",
+  "citation": "RTI2005 s.19",
+  "premise": "[RTI2005 s.19 Appeal] the penalties provided under this Act; (d) reject the application. (9) The Central Information Commission or State Information Commission, as the case may be, shall give notice of its decision, including any right of appeal, to the complainant and the public authority. (/0) The Central Information Commission or State Information Commission, as the case may be, shall decide the appeal in accordance with such procedure as may be prescribed.",
+  "n": 17
+ },
+ {
+  "qid": "q02",
+  "retriever": "rerank",
+  "claim": "This requirement comes from Section 8 of the Right to Information Act, 2005, which states that \"where the information sought for concerns the life or liberty of a person, the same shall be provided within forty-eight hours of the receipt of the request.\"",
+  "citation": "RTI2005 s.7",
+  "premise": "[RTI2005 s.7 Disposal of request] Disposal of request.—(1) Subject to the proviso to sub-section (2) of section 5 or the proviso to sub-section (3) of section 6, the Central Public Information Officer or State Public Information Officer, as the case may be, on receipt of a request under section 6 shall, as expeditiously as possible, and in any case within thirty days of the receipt of the request. either provide the information on payment of such fee as may be prescribed or reject the request for any of the reasons specified in sections 8 and 9: Provided that where the information sought for concerns the life or liberty of a person, the same shall be provided within forty-eight hours of the receipt of the request. (2) If the Central Public Information Officer or State Public Information Officer, as the case may be, fails to give decision on the request for information within the period specified under sub-section (1), the Central Public Information Officer or State Public Information Officer, as the case may be, shall be deemed to have refused the request. (3) Where a decision is taken to provide the information on payment of any further fee representing the cost of providing the information, the Central Public Information Officer or State Public Information Officer, as the case may be, shall",
+  "n": 18
+ },
+ {
+  "qid": "q32",
+  "retriever": "dense",
+  "claim": "This includes reading or monitoring your private messages sent over the internet if deemed necessary for cybersecurity purposes .",
+  "citation": "IT2000 s.69",
+  "premise": "[IT2000 s.69 Power to issue directions for interception or monitoring or decryption] called upon by any agency referred to in sub-section (1), extend all facilities and technical assistance to– (a) provide access to or secure access to the computer resource generating , transmitting, receiving or storing such information; or (b) intercept, monitor, or decrypt the information, as the case may be; or (c) provide information stored in computer resource. (4) The subscriber or intermediary or any person who fails to assist the agency referred to in sub-section (3) shall be punished with imprisonment for a term which may extend to seven years and shall also be liable to fine.",
+  "n": 19
+ },
+ {
+  "qid": "q28",
+  "retriever": "rerank",
+  "claim": "This definition encompasses various forms of deception, misrepresentation, and exploitation of consumers.",
+  "citation": "CPA2019 s.2",
+  "premise": "[CPA2019 s.2 Definitions] occurred due to such breach to the other party to the contract; or (iii) refusing to accept early repayment of debts on payment of applicable penalty; or (iv) entitling a party to the contract to terminate such contract unilate rally, without reasonable cause; or (v) permitting or has the effect of permitting one party to assign the contract to the detriment of the other party who is a consumer, without his consent; or (vi) imposing on the consumer any unreasonable charge, obliga tion or condition which puts such consumer to disadvantage; (47) “unfair trade practice” means a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice including any of the following practices, namely:— (i) making any statement, whether orally or in writing or by visible representation including by means of electronic record, which— (a) falsely represents that the goods are of a par ticular standard, quality, quantity, grade, composition, style or model; (b) falsely represents that the services are of a particular standard, quality or grade; (c) falsely represents any re -built, second-hand, renovated, reconditioned or old goods as new goods; (d) represents that the goods or services have sponsorship, approval, performance, characteristics, accessories,",
+  "n": 20
+ },
+ {
+  "qid": "q37",
+  "retriever": "dense",
+  "claim": "For a district consumer commission's order, you can appeal within 45 days of receiving the order, but the Commission may extend this period up to 45 days if they find sufficient cause for non-filing within the initial 45-day period.",
+  "citation": "CPA2019 s.41",
+  "premise": "[CPA2019 s.41 Appeal against order of District Commission] Appeal against order of District Commission.—Any person aggrieved by an order made by the District Commission may prefer an appeal against such order to the State Commission on the grounds of facts or law within a period of forty-five days from the date of the order, in such form and manner, as may be prescribed: Provided that the State Commission may entertain an appeal after the expiry of the said period of forty-five days, if it is satisfied that there was sufficient cause for not filing it within that period: Provided further that no appeal by a person, who is required to pay any amount in terms of an order of the District Commission, shall be entertained by the State Commission unless the appellant has deposited fifty per cent. of that amount in the manner as may be prescribed: Provided also that no appeal shall lie from any order passed under sub-section (1) of section 81 by the District Commission pursuant to a settlement by mediation under section 80.",
+  "n": 21
+ },
+ {
+  "qid": "q37",
+  "retriever": "dense",
+  "claim": "For an RTI request, you have 90 days from the date of the decision to appeal to the Central Information Commission or the State Information Commission.",
+  "citation": "CPA2019 s.41",
+  "premise": "[CPA2019 s.41 Appeal against order of District Commission] Appeal against order of District Commission.—Any person aggrieved by an order made by the District Commission may prefer an appeal against such order to the State Commission on the grounds of facts or law within a period of forty-five days from the date of the order, in such form and manner, as may be prescribed: Provided that the State Commission may entertain an appeal after the expiry of the said period of forty-five days, if it is satisfied that there was sufficient cause for not filing it within that period: Provided further that no appeal by a person, who is required to pay any amount in terms of an order of the District Commission, shall be entertained by the State Commission unless the appellant has deposited fifty per cent. of that amount in the manner as may be prescribed: Provided also that no appeal shall lie from any order passed under sub-section (1) of section 81 by the District Commission pursuant to a settlement by mediation under section 80.",
+  "n": 22
+ },
+ {
+  "qid": "q12",
+  "retriever": "rerank",
+  "claim": "Yes, according to Section 11(1)(a) of the Data Protection Bill, 2023, you can request a summary of your personal data and details of how it's shared with other entities.",
+  "citation": "DPDP2023 s.11",
+  "premise": "[DPDP2023 s.11 (1) The Data Principal shall have the right to obtain] (1) The Data Principal shall have the right to obtain from the Data Fiduciary to whom she has previously given consent, including consent as referred to in clause ( a) of section 7 (hereinafter referred to as the said Data Fiduciary), for processing of personal data, upon making to it a request in such manner as may be prescribed,— (a) a summary of personal data which is being processed by such Data Fiduciary and the processing activities undertaken by that Data Fiduciary with respect to such personal data; (b) the identities of all other Data Fiduciaries and Data Processors with whom the personal data has been shared by such Data Fiduciary, along with a description of the personal data so shared; and (c) any other information related to the personal data of such Data Principal and its processing, as may be prescribed. (2) Nothing contained in clause ( b) or clause (c) of sub-section ( 1) shall apply in respect of the sharing of any personal data by the said Data Fiduciary with any other Data Fiduciary authorised by law to obtain such personal data, where such sharing is pursuant Right to access information about personal data. 10 THE GAZETTE OF INDIA EXTRAORDINARY [P ART II— to a",
+  "n": 23
+ },
+ {
+  "qid": "q04",
+  "retriever": "hybrid",
+  "claim": "Information related to allegations of violation of human rights.\n6.",
+  "citation": "RTI2005 s.24",
+  "premise": "[RTI2005 s.24 Act not to apply in certain organizations] Act not to apply in certain organizations.—(1) Nothing contained in this Act shall apply to the intelligence and security organisations specified in the Second Schedule, being organisations established by the Central Government or any information fumished by such organisations to that Government: Provided that the information pertaining to the allegations of corruption and human rights violations shall not be excluded under this sub-section: Provided further that in the case of information sought for is in respect of allegations of violation of human rights, the information shall only be provided after the approval of the Central Information Commission, and notwithstanding anything contained in section 7, such information shall be provided within forty-five days from the date of the receipt of request. (2) The Central Government may, by notification in the Official Gazette, amend the Schedule by including therein any other intelligence or security organisation established by that Government or omitting therefrom any organisation already specified therein and on the publication of such notification, such organisation shall be deemed to be included in or, as the case may be, omitted from the Schedule. (3) Every notification issued under sub-section (2) shall be laid before each House of Parliament. (4) Nothing contained in this Act shall apply to such intelligence and security organisation being",
+  "n": 24
+ },
+ {
+  "qid": "q25",
+  "retriever": "rerank",
+  "claim": "The statute further outlines various remedies available to the complainant, including compensation, removal of defects, replacement of goods, and payment of punitive damages, depending on the severity of the harm and the nature of the breach.",
+  "citation": "CPA2019 s.84",
+  "premise": "[CPA2019 s.84 Liability of product manufacturer] Liability of product manufacturer .—(1) A product manufacturer shall be liable in a product liability action, if— (a) the product contains a manufacturing defect; or (b) the product is defective in design; or (c) there is a deviation from manufacturing specifications; or (d) the product does not conform to the express warranty; or (e) the product fails to contain adequate instructions of correct usage to prevent any harm o r any warning regarding improper or incorrect usage. (2) A product manufacturer shall be liable in a product liability action even if he proves that he was not negligent or fraudulent in making the express warranty of a product.",
+  "n": 25
+ },
+ {
+  "qid": "q19",
+  "retriever": "dense",
+  "claim": "The maximum rupee penalty for failing to protect personal data under the DPDP Act is up to five crore rupees .",
+  "citation": "DPDP2023 s.Schedule",
+  "premise": "[DPDP2023 s.Schedule Schedule (table of penalties)] Breach of provisions of this Act or rules made thereunder (2) Breach in observing the obligation of Data Fiduciary to take reasonable security safeguards to prevent personal data breach under sub-section (5) of section 8. Breach in observing the obligation to give the Board or affected Data Principal notice of a personal data breach under sub-section (6) of section 8. Breach in observance of additional obligations in relation to children under section 9. Breach in observance of additional obligations of Significant Data Fiduciary under section 10. Breach in observance of the duties under section 15. Breach of any term of voluntary undertaking accepted by the Board under section 32. Breach of any other provision of this Act or the rules made thereunder. Sl. No. (1) 1. 2. 3. 4. 5. 6. 7. Penalty (3) May extend to two hundred and fifty crore rupees. May extend to two hundred crore rupees. May extend to two hundred crore rupees. May extend to one hundred and fifty crore rupees. May extend to ten thousand rupees. Up to the extent applicable for the breach in respect of which the proceedings under section 28 were instituted. May extend to fifty crore rupees.",
+  "n": 26
+ },
+ {
+  "qid": "q03",
+  "retriever": "rerank",
+  "claim": "Appeals can be filed with the senior officer who is senior in rank to the Central Public Information Officer or State Public Information Officer, as the case may be, within thirty days from the expiry of the period or from the receipt of the decision.",
+  "citation": "RTI2005 s.19",
+  "premise": "[RTI2005 s.19 Appeal] Appeal.—(1) Any person who, does not receive a decision within the time specified in sub-section (1) or clause (a) of sub-section (3) of section 7, or is aggrieved by a decision of the Central Public Information Officer or State Public Information Officer, as the case may be, may within thirty days from the expiry of such period or from the receipt of such a decision prefer an appeal to such officer who is senior in rank to the Central Public Information Officer or State Public Information Officer as the case may be, in each public authority: Provided that such officer may admit the appeal after the expiry of the period of thirty days if he or she is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time. (2) Where an appeal is preferred against an order made by a Central Public Information Officer or a State Public Information Officer, as the case may be, under section 11 to disclose third party information, the appeal by the concerned third party shall be made within thirty days from the date of the order. (3) A second appeal against the decision under sub-section (1) shall lie vvithin ninety days from the date on which the decision should have been made or was actually received,",
+  "n": 27
+ },
+ {
+  "qid": "q11",
+  "retriever": "hybrid",
+  "claim": "No, according to Section 21 of the Consumer Protection Act, 2019, targeted advertising directed at children is prohibited.",
+  "citation": "DPDP2023 s.9",
+  "premise": "[DPDP2023 s.9 (1) The Data Fiduciary shall, before processing any personal data] (1) The Data Fiduciary shall, before processing any personal data of a child or a person with disability who has a lawful guardian obtain verifiable consent of the parent of such child or the lawful guardian, as the case may be, in such manner as may be prescribed. Explanation.—For the purpose of this sub-section, the expression “consent of the parent” includes the consent of lawful guardian, wherever applicable. (2) A Data Fiduciary shall not undertake such processing of personal data that is likely to cause any detrimental effect on the well-being of a child. (3) A Data Fiduciary shall not undertake tracking or behavioural monitoring of children or targeted advertising directed at children. (4) The provisions of sub-sections (1) and (3) shall not be applicable to processing of personal data of a child by such classes of Data Fiduciaries or for such purposes, and subject to such conditions, as may be prescribed. (5) The Central Government may, if satisfied that a Data Fiduciary has ensured that its processing of personal data of children is done in a manner that is verifiably safe, notify for such processing by such Data Fiduciary the age above which that Data Fiduciary shall be exempt from the applicability of all or any of",
+  "n": 28
+ },
+ {
+  "qid": "q20",
+  "retriever": "rerank",
+  "claim": "Up to one crore rupees, subject to the Central Government's discretion to set a higher limit .",
+  "citation": "CPA2019 s.34",
+  "premise": "[CPA2019 s.34 Jurisdiction of District Commission] Jurisdiction of District Commission .—(1) Subject to the other p rovisions of this Act, the District Commission shall have jurisdiction to entertain complaints where the value of the goods or services paid as consideration does not exceed one crore rupees: Provided that where the Central Government deems it necessary so to do, it may prescribe such other value, as it deems fit. (2) A complaint shall be instituted in a District Commission within the local limits of whose jurisdiction,— (a) the opposite party or each of the opposite parties, where there are more than one, at the time of the institution of the complaint, ordinarily resides or carries on business or has a branch office or personally works for gain; or (b) any of the opposite parties, where there are more than one, at the time of the institution of the complaint, actually and voluntarily resides, or carries on business or has a branch office, or personally works for gain, provided that in such case the permission of the District Commission is given; or (c) the cause of action, wholly or in part, arises; or (d) the complainant resides or personally works for gain. (3) The District Commission shall ordinarily function in the district headquarters and may perform its functions at such other place",
+  "n": 29
+ },
+ {
+  "qid": "q13",
+  "retriever": "rerank",
+  "claim": "This must be done in a manner prescribed by the relevant authority.\n\n3. **Follow Up**: The Data Fiduciary will then proceed to correct, complete, update, or erase your personal data according to the requirements set out in the request.\n\n4. **Compliance with Laws**: Ensure that the corrections, completions, updates, or erasures comply with any legal",
+  "citation": "DPDP2023 s.12",
+  "premise": "[DPDP2023 s.12 (1) A Data Principal shall have the right to correction,] (1) A Data Principal shall have the right to correction, completion, updating and erasure of her personal data for the processing of which she has previously given consent, including consent as referred to in clause (a) of section 7, in accordance with any requirement or procedure under any law for the time being in force. (2) A Data Fiduciary shall, upon receiving a request for correction, completion or updating from a Data Principal,— (a) correct the inaccurate or misleading personal data; (b) complete the incomplete personal data; and (c) update the personal data. (3) A Data Principal shall make a request in such manner as may be prescribed to the Data Fiduciary for erasure of her personal data, and upon receipt of such a request, the Data Fiduciary shall erase her personal data unless retention of the same is necessary for the specified purpose or for compliance with any law for the time being in force.",
+  "n": 30
+ }
+]
